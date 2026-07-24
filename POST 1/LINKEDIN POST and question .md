@@ -1,4 +1,4 @@
-SpaceX just went public at a $1.77 trillion valuation. 🚀
+<img width="1031" height="1094" alt="Frame 5" src="https://github.com/user-attachments/assets/1d6d69b5-f72b-4dd0-867f-6e93552736dc" />SpaceX just went public at a $1.77 trillion valuation. 🚀
 Historic Valuation.
   
 The numbers present a fascinating puzzle, not in a negative way, but in a structural way that I couldn’t stop pulling on. 🧩
@@ -22,3 +22,9 @@ I’m stripping away the headlines and rebuilding the valuation from first princ
 Over the next few weeks, I’ll walk through the entire model. No speculation. No verdict yet. Just the numbers.
 
 Next : Why ecosystem mergers under common control complicate traditional corporate valuation, and why acquisitions destroy value far more often than they create it. 📉
+
+![Uploading Frame 3.png…]()
+![Uploading Frame 5.png…]()
+![Uploading Frame 5.png…]()
+![Uploading Frame 5.png…]()
+
